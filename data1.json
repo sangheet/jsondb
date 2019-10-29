@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "entradas": [
+        {
+          "1:Ceviche de pescado": {},
+          "2:Papa a la huancaina": {},
+          "3:Sopa de gallina": {}
+        }
+      ],
+      "Segundos": [
+        {
+          "1:Lomo Saltado": {},
+          "2:Tallarín Saltado": {},
+          "3:Arroz con Pollo": {},
+          "4:1/4 de pollo con papas": {}
+        }
+      ],
+      "Bebidas": [
+        {
+          "1:Inca Kola personal": {},
+          "2:Inca Kola gordita": {},
+          "3:Coca Cola Personal": {},
+          "4:Coca Cola 1Lt": {}
+        }
+      ],
+      "Postres": [
+        {
+          "1:Pie de limón": {},
+          "2:Keke Marmoleado": {},
+          "3:Gelatina": {},
+          "": {}
+        }
+      ]
+    }
+  ]
+}
